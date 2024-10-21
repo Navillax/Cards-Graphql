@@ -1,0 +1,17 @@
+.btn {
+  background: var(--fondo-primario);
+  border: var(--bordes) 2px solid;
+  border-radius: 8px;
+  height: 48px;
+  width: 100px;
+  margin: 8px;
+  color: white;
+  font-family: var(--fuente-principal);
+  font-size: var(--Titulo-principal);
+}
+
+.btn:hover {
+  background: var(--fondo-secundario);
+  color: var(--texto-inactivo);
+  cursor: pointer;
+}

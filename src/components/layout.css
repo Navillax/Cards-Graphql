@@ -1,0 +1,27 @@
+:root {
+  /* COLORES */
+  /* Fondos */
+  --fondo-bg: #FFFFFF;
+  --fondo-primario: #007acc;
+  --fondo-secundario: #00538f;
+  --fondo-terciario: #e5f6ff;
+  /* Bordes */
+  --bordes: #dddddd;
+  /* Textos */
+  --texto-primario: #333333;
+  --texto-secundario: #666666;
+  --texto-inactivo: #999999;
+  /* Estados */
+  --exito: #28a745;
+  --advertencia: #ffc107;
+  --error: #dc3545;
+  /* TIPOGRAFÍA */
+  /* Fuentes */
+  --fuente-principal: Roboto, sans-serif;
+  --fuente-secundaria: Montserrat, sans-serif;
+  /* Tamaño texto */
+  --Titulo-principal: 24px;
+  --Titulo-secundario: 20px;
+  --texto-regular: 16px;
+  --texto-mini: 14px;
+}
